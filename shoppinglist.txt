@@ -1,3 +1,5 @@
 eggs
 juice
 spinach
+Curd
+chicken
