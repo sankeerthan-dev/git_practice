@@ -1,3 +1,7 @@
 eggs
 juice
 spinach
+rice
+lentils
+potatoes
+Cold Drinks
